@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://closingtime/skin/overlay.css" type="text/css"?>
+<overlay id="ClosingTimeOverlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+ <script src="chrome://closingtime/content/permitUnload.js" />
+</overlay>

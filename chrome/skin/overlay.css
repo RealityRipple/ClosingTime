@@ -1,0 +1,4 @@
+.tabbrowser-tab[pendingPermitUnload="true"] .tab-close-button
+{
+ display: none;
+}

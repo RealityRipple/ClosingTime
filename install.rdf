@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
+ <Description about="urn:mozilla:install-manifest">
+  <em:name>ClosingTime</em:name>
+  <em:id>{C7A8FD72-43FE-562C-B929-7913C1BA2217}</em:id>
+  <em:version>33.0</em:version>
+  <em:type>2</em:type>
+  <em:targetApplication>
+   <Description>
+    <em:id>{8de7fcbb-c55c-4fbe-bfc5-fc555c87dbc4}</em:id>
+    <em:minVersion>33.0</em:minVersion>
+    <em:maxVersion>33.*</em:maxVersion>
+   </Description>
+  </em:targetApplication>
+  <em:description>Hide the Close button on tabs that have a BeforeUnload prompt pending.</em:description>
+  <em:homepageURL>https://realityripple.com/Software/XUL/ClosingTime/</em:homepageURL>
+  <em:updateURL>https://realityripple.com/Software/XUL/ClosingTime/update.rdf</em:updateURL>
+  <em:iconURL>chrome://closingtime/skin/logo.png</em:iconURL>
+  <em:iconURL64>chrome://closingtime/skin/logo64.png</em:iconURL64>
+  <em:optionsType>2</em:optionsType>
+  <em:creator>RealityRipple</em:creator>
+ </Description>
+</RDF>
